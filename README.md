@@ -3,7 +3,8 @@
 #### I'm Aleksandar Madic, Software Engineer from Belgrade, Serbia.
 
 - ⚙️ I use daily: `.cs`, `.vue`, `sql`
-- 📫 Reach me: [linkedin]: https://www.linkedin.com/in/alemadic/
+- 📫 Reach me: 
+[linkedin]: https://www.linkedin.com/in/alemadic/
 
 <!--
 **madic00/madic00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
