@@ -6,9 +6,7 @@
   <img align="left" alt="Aleksandar's linkedin" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br /> <br />
-
-**Languages and Tools:**  
+##### Languages and Tools: 
 
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
