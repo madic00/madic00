@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I'm a Aleksandar Madic, Software Engineer from Belgrade, Serbia.
+
+- ⚙️ I use daily: `.cs`, `.vue`, `sql`
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+
 <!--
 **madic00/madic00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
