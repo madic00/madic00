@@ -3,7 +3,7 @@
 #### I'm Aleksandar Madic, Software Engineer from Belgrade, Serbia.
 
 - ⚙️ I use daily: `.cs`, `.vue`, `sql`
-- 📫 Reach me: 
+ 
 [linkedin]: https://www.linkedin.com/in/alemadic/
 
 <!--
