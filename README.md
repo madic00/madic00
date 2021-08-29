@@ -3,9 +3,10 @@
 #### I'm Aleksandar Madic, Software Engineer from Belgrade, Serbia.
 
 <a href="https://www.linkedin.com/in/alemadic/">
-  <img align="left" alt="Aleksandar's linkedin" width="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Aleksandar's linkedin" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br />
 
 **Languages and Tools:**  
 
